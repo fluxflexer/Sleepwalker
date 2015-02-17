@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="gondolin_sleepwalker">
+    <serverData>
+      <paths name="gondolin_sleepwalker">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/sleepwalker" local="$PROJECT_DIR$/src" web="/ sleepwalker" />
+            <mapping deploy="/public_html/cgi-bin/sleepwalker" local="$PROJECT_DIR$/src/cgi-bin" web="/cgi-bin/sleepwalker" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
